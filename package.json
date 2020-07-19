@@ -8,6 +8,10 @@
   "bin": "./cjs/bin.js",
   "author": "Tomek Łaziuk <tlaziuk@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "github:tlaziuk/svg-to-material-ui"
+  },
   "scripts": {
     "execute": "node ./cjs/bin.js",
     "build": "tsc --build ./src/tsconfig.cjs.json ./src/tsconfig.es.json",
