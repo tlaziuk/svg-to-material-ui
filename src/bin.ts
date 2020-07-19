@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import svgToMaterialUi from './index'
 
 if (process.stdin.isTTY) {
