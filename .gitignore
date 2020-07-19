@@ -1,0 +1,10 @@
+/node_modules/
+*.tsbuildinfo
+*.d.ts
+*.map
+/es/
+/cjs/
+yarn.lock
+package-lock.json
+*.tgz
+*.log
