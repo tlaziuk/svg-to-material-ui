@@ -1,6 +1,6 @@
 {
   "name": "svg-to-material-ui",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "convert svg icon to material-ui icon without any effort",
   "main": "./cjs/index.js",
   "module": "./es/index.js",
